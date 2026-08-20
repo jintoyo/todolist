@@ -1,0 +1,29 @@
+{
+  "name": "인체 드로잉 마스터 가이드 - 인터랙티브 시각화 & 실습",
+  "short_name": "인체드로잉",
+  "description": "8등신 비율의 법칙, 3D 도형화 매니킨, 제스처 & 콘트라포스토, 인터랙티브 캔버스 실습 웹앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
